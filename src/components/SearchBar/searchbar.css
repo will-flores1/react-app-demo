@@ -7,4 +7,5 @@
   align-items: center;
   padding: 1rem;
   gap: 2rem;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
